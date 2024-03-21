@@ -1,0 +1,65 @@
+D:\MY\myPorject\myProjectTest\API\myAPIProject\bin\Debug\net6.0\appsettings.Development.json
+D:\MY\myPorject\myProjectTest\API\myAPIProject\bin\Debug\net6.0\appsettings.json
+D:\MY\myPorject\myProjectTest\API\myAPIProject\bin\Debug\net6.0\myAPIProject.exe
+D:\MY\myPorject\myProjectTest\API\myAPIProject\bin\Debug\net6.0\myAPIProject.deps.json
+D:\MY\myPorject\myProjectTest\API\myAPIProject\bin\Debug\net6.0\myAPIProject.runtimeconfig.json
+D:\MY\myPorject\myProjectTest\API\myAPIProject\bin\Debug\net6.0\myAPIProject.dll
+D:\MY\myPorject\myProjectTest\API\myAPIProject\bin\Debug\net6.0\myAPIProject.pdb
+D:\MY\myPorject\myProjectTest\API\myAPIProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\MY\myPorject\myProjectTest\API\myAPIProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\MY\myPorject\myProjectTest\API\myAPIProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MY\myPorject\myProjectTest\API\myAPIProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MY\myPorject\myProjectTest\API\myAPIProject\obj\Debug\net6.0\myAPIProject.csproj.AssemblyReference.cache
+D:\MY\myPorject\myProjectTest\API\myAPIProject\obj\Debug\net6.0\myAPIProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY\myPorject\myProjectTest\API\myAPIProject\obj\Debug\net6.0\myAPIProject.AssemblyInfoInputs.cache
+D:\MY\myPorject\myProjectTest\API\myAPIProject\obj\Debug\net6.0\myAPIProject.AssemblyInfo.cs
+D:\MY\myPorject\myProjectTest\API\myAPIProject\obj\Debug\net6.0\myAPIProject.csproj.CoreCompileInputs.cache
+D:\MY\myPorject\myProjectTest\API\myAPIProject\obj\Debug\net6.0\myAPIProject.MvcApplicationPartsAssemblyInfo.cs
+D:\MY\myPorject\myProjectTest\API\myAPIProject\obj\Debug\net6.0\myAPIProject.MvcApplicationPartsAssemblyInfo.cache
+D:\MY\myPorject\myProjectTest\API\myAPIProject\obj\Debug\net6.0\staticwebassets.build.json
+D:\MY\myPorject\myProjectTest\API\myAPIProject\obj\Debug\net6.0\staticwebassets.development.json
+D:\MY\myPorject\myProjectTest\API\myAPIProject\obj\Debug\net6.0\staticwebassets\msbuild.myAPIProject.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MY\myPorject\myProjectTest\API\myAPIProject\obj\Debug\net6.0\staticwebassets\msbuild.build.myAPIProject.props
+D:\MY\myPorject\myProjectTest\API\myAPIProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.myAPIProject.props
+D:\MY\myPorject\myProjectTest\API\myAPIProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.myAPIProject.props
+D:\MY\myPorject\myProjectTest\API\myAPIProject\obj\Debug\net6.0\staticwebassets.pack.json
+D:\MY\myPorject\myProjectTest\API\myAPIProject\obj\Debug\net6.0\scopedcss\bundle\myAPIProject.styles.css
+D:\MY\myPorject\myProjectTest\API\myAPIProject\obj\Debug\net6.0\myAPIProject.csproj.CopyComplete
+D:\MY\myPorject\myProjectTest\API\myAPIProject\obj\Debug\net6.0\myAPIProject.dll
+D:\MY\myPorject\myProjectTest\API\myAPIProject\obj\Debug\net6.0\refint\myAPIProject.dll
+D:\MY\myPorject\myProjectTest\API\myAPIProject\obj\Debug\net6.0\myAPIProject.pdb
+D:\MY\myPorject\myProjectTest\API\myAPIProject\obj\Debug\net6.0\myAPIProject.genruntimeconfig.cache
+D:\MY\myPorject\myProjectTest\API\myAPIProject\obj\Debug\net6.0\ref\myAPIProject.dll
+C:\Users\S1907001\OneDrive - Wistron Corporation\Desktop\myProjectTest\API\myAPIProject\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\S1907001\OneDrive - Wistron Corporation\Desktop\myProjectTest\API\myAPIProject\bin\Debug\net6.0\appsettings.json
+C:\Users\S1907001\OneDrive - Wistron Corporation\Desktop\myProjectTest\API\myAPIProject\bin\Debug\net6.0\myAPIProject.exe
+C:\Users\S1907001\OneDrive - Wistron Corporation\Desktop\myProjectTest\API\myAPIProject\bin\Debug\net6.0\myAPIProject.deps.json
+C:\Users\S1907001\OneDrive - Wistron Corporation\Desktop\myProjectTest\API\myAPIProject\bin\Debug\net6.0\myAPIProject.runtimeconfig.json
+C:\Users\S1907001\OneDrive - Wistron Corporation\Desktop\myProjectTest\API\myAPIProject\bin\Debug\net6.0\myAPIProject.dll
+C:\Users\S1907001\OneDrive - Wistron Corporation\Desktop\myProjectTest\API\myAPIProject\bin\Debug\net6.0\myAPIProject.pdb
+C:\Users\S1907001\OneDrive - Wistron Corporation\Desktop\myProjectTest\API\myAPIProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\S1907001\OneDrive - Wistron Corporation\Desktop\myProjectTest\API\myAPIProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\S1907001\OneDrive - Wistron Corporation\Desktop\myProjectTest\API\myAPIProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\S1907001\OneDrive - Wistron Corporation\Desktop\myProjectTest\API\myAPIProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\S1907001\OneDrive - Wistron Corporation\Desktop\myProjectTest\API\myAPIProject\obj\Debug\net6.0\myAPIProject.csproj.AssemblyReference.cache
+C:\Users\S1907001\OneDrive - Wistron Corporation\Desktop\myProjectTest\API\myAPIProject\obj\Debug\net6.0\myAPIProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S1907001\OneDrive - Wistron Corporation\Desktop\myProjectTest\API\myAPIProject\obj\Debug\net6.0\myAPIProject.AssemblyInfoInputs.cache
+C:\Users\S1907001\OneDrive - Wistron Corporation\Desktop\myProjectTest\API\myAPIProject\obj\Debug\net6.0\myAPIProject.AssemblyInfo.cs
+C:\Users\S1907001\OneDrive - Wistron Corporation\Desktop\myProjectTest\API\myAPIProject\obj\Debug\net6.0\myAPIProject.csproj.CoreCompileInputs.cache
+C:\Users\S1907001\OneDrive - Wistron Corporation\Desktop\myProjectTest\API\myAPIProject\obj\Debug\net6.0\myAPIProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\S1907001\OneDrive - Wistron Corporation\Desktop\myProjectTest\API\myAPIProject\obj\Debug\net6.0\myAPIProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\S1907001\OneDrive - Wistron Corporation\Desktop\myProjectTest\API\myAPIProject\obj\Debug\net6.0\myAPIProject.sourcelink.json
+C:\Users\S1907001\OneDrive - Wistron Corporation\Desktop\myProjectTest\API\myAPIProject\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\S1907001\OneDrive - Wistron Corporation\Desktop\myProjectTest\API\myAPIProject\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\S1907001\OneDrive - Wistron Corporation\Desktop\myProjectTest\API\myAPIProject\obj\Debug\net6.0\staticwebassets\msbuild.myAPIProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\S1907001\OneDrive - Wistron Corporation\Desktop\myProjectTest\API\myAPIProject\obj\Debug\net6.0\staticwebassets\msbuild.build.myAPIProject.props
+C:\Users\S1907001\OneDrive - Wistron Corporation\Desktop\myProjectTest\API\myAPIProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.myAPIProject.props
+C:\Users\S1907001\OneDrive - Wistron Corporation\Desktop\myProjectTest\API\myAPIProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.myAPIProject.props
+C:\Users\S1907001\OneDrive - Wistron Corporation\Desktop\myProjectTest\API\myAPIProject\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\S1907001\OneDrive - Wistron Corporation\Desktop\myProjectTest\API\myAPIProject\obj\Debug\net6.0\scopedcss\bundle\myAPIProject.styles.css
+C:\Users\S1907001\OneDrive - Wistron Corporation\Desktop\myProjectTest\API\myAPIProject\obj\Debug\net6.0\myAPIProject.csproj.CopyComplete
+C:\Users\S1907001\OneDrive - Wistron Corporation\Desktop\myProjectTest\API\myAPIProject\obj\Debug\net6.0\myAPIProject.dll
+C:\Users\S1907001\OneDrive - Wistron Corporation\Desktop\myProjectTest\API\myAPIProject\obj\Debug\net6.0\refint\myAPIProject.dll
+C:\Users\S1907001\OneDrive - Wistron Corporation\Desktop\myProjectTest\API\myAPIProject\obj\Debug\net6.0\myAPIProject.pdb
+C:\Users\S1907001\OneDrive - Wistron Corporation\Desktop\myProjectTest\API\myAPIProject\obj\Debug\net6.0\myAPIProject.genruntimeconfig.cache
+C:\Users\S1907001\OneDrive - Wistron Corporation\Desktop\myProjectTest\API\myAPIProject\obj\Debug\net6.0\ref\myAPIProject.dll
